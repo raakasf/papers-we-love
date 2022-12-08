@@ -14,8 +14,12 @@
 
 ## Contract enforcement/principal-agent models
 
-* [Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition (1993)](https://web.stanford.edu/~avner/Greif_Papers/1993%20Greif%20AER%201993.pdf) by Avner Grief
+* [Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition (1993)](https://web.stanford.edu/~avner/Greif_Papers/1993%20Greif%20AER%201993.pdf) by Avner Greif
 
 ## Game theory
 
 * [Two-person cooperative games (1950)](https://www.rand.org/content/dam/rand/pubs/papers/2005/P172.pdf) by John Forbes Nash
+
+## Emergent Economies for Role Playing Games
+
+* [Emergent Economies for Role Playing Games (2012)](https://ianparberry.com/pubs/econ.pdf) by Jonathon Doran and Ian Parberry
